@@ -1,2 +1,2 @@
-# Group6
+# The_Seven_Habit
 Practice repository
