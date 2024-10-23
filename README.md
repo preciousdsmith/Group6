@@ -1,2 +1,2 @@
-# The_Seven_Habit
+# The_Seven_Habits
 Practice repository
